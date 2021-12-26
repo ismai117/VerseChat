@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948031643996",
+    "project_id": "versechat-b4652",
+    "storage_bucket": "versechat-b4652.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948031643996:android:7d2ff6133cb0c816202199",
+        "android_client_info": {
+          "package_name": "com.im.versechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948031643996-r3976f71f6oc3rbrfqormv4a2l59lb4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcMrCv6WTQWzFPt2ccbjNxhHoXGvvfWuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948031643996-r3976f71f6oc3rbrfqormv4a2l59lb4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
